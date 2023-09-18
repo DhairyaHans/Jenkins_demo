@@ -1,0 +1,1 @@
+print("Hello World... This is a demo Jenkins Job aimed to download contents of a git repo")
